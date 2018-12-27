@@ -14,7 +14,3 @@ def substring(string, dictionary)
   end
   contains
 end
-
-dictionary = ["below","down","go","going","horn","how","howdy","it","i","low","own","part","partner","sit"]
-
-puts substring("Howdy partner, sit down! How's it going?", dictionary)
